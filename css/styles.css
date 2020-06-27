@@ -14,7 +14,7 @@
 .content-table {
     position: absolute;
     bottom: 70px;
-    left:90px;
+    left:145px;
     height: 200px;
     border-collapse: collapse;
     font-size: 0.7em;
@@ -26,7 +26,6 @@
 
 
 #result-div{
-    display: block;
     background-color: #a9d9b6;
     width: 300px;
     height: 50px;
